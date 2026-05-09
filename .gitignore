@@ -1,0 +1,4 @@
+evasion/email-spam-evasion/data/emails.csv
+**/__pycache__/
+**/*.pkl
+**/*.json

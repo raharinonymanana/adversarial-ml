@@ -2,3 +2,7 @@ evasion/email-spam-evasion/data/emails.csv
 **/__pycache__/
 **/*.pkl
 **/*.json
+**/__pycache__/
+**/*.pkl
+**/*.pyc
+claude.md

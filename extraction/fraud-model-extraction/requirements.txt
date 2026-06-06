@@ -1,0 +1,9 @@
+# Lab 2 — Model Extraction Attack on a Fraud Classifier
+# Everything below runs on CPU only — no GPU required.
+
+scikit-learn>=1.3.0      # SVC victim, shadow models, metrics
+pandas>=2.0.0            # load creditcard.csv, build stolen dataset
+numpy>=1.24.0            # array math
+matplotlib>=3.7.0        # notebook charts (class imbalance, budget curve)
+seaborn>=0.12.0          # nicer notebook visualizations
+jupyter>=1.0.0           # run the exploration notebook

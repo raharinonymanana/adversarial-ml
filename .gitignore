@@ -1,8 +1,13 @@
-evasion/email-spam-evasion/data/emails.csv
+# Datasets and trained model artifacts (large / regenerable / user-supplied)
+data/
+models/
+*.csv
+*.pkl
+*.json
+
+# Python bytecode caches
 **/__pycache__/
-**/*.pkl
-**/*.json
-**/__pycache__/
-**/*.pkl
-**/*.pyc
+*.pyc
+
+# Project instructions
 claude.md

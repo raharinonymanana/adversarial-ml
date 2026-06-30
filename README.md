@@ -31,7 +31,7 @@ following the course module order.
 - [`extraction/offline-model-extraction/`](extraction/offline-model-extraction/) — Offline model extraction: MLP victim → Random Forest clone on digits
 
 ### Assessment
-- *(lab in progress)*
+- [`assessment/art-robustness-assessment/`](assessment/art-robustness-assessment/) — Black-box robustness assessment with ART HopSkipJump + Optuna query-efficiency tuning
 
 ### Inversion
 - *(no labs yet)*
